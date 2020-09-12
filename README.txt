@@ -34,3 +34,6 @@ mail:root@django.com
 pass:root
 
 追加ユーザ
+user:user1
+mail:user1@django.com
+pass:heoisa8990
